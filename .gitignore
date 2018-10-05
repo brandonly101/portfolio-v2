@@ -1,0 +1,14 @@
+# Copyright Brandon Ly 2015
+#
+# .Gitignore for my Portfolio Site
+*.sass-cache
+_site/
+node_modules/
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+nbproject
+Thumbs.db

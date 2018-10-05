@@ -1,0 +1,13 @@
+exclude:
+- 'webpack'
+- 'Gemfile'
+- 'node_modules'
+- 'components'
+- 'style'
+- 'assets/fonts'
+- 'index.js'
+- 'server.js'
+- '*.md'
+- '*.rb'
+- '*.lock'
+- '*.json'
